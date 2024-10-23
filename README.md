@@ -16,7 +16,19 @@ Dashboard For Student:
 - View button for marks(Marks,module,Lecturer)
 - Add Classes/Electives
 - Update button for personal information
-- Delete:("Go see admin") 
+- Delete:("Go see admin")
 
+
+
+Created: Lecturer login window.
+           Lecturer logins in and logins are validated.
+           Upon successful login ,lecturer is directed to the admin window/ lecturer dashboard.
+
+Created: Admin Window where you find lecturer dashboard.
+  The dashboard allows lecturers to update the marks of students for specific modules.
+  Lecturers can add new modules by entering the module code, module name, and lecturer name.
+  Lecturer can edit student information using CRUD.
+
+  
             
         
